@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jjjjhjjjj.github.io/Todo-App/static/css/main.5f361e03.chunk.css",
-    "main.js": "/jjjjhjjjj.github.io/Todo-App/static/js/main.28ab287e.chunk.js",
-    "main.js.map": "/jjjjhjjjj.github.io/Todo-App/static/js/main.28ab287e.chunk.js.map",
-    "runtime-main.js": "/jjjjhjjjj.github.io/Todo-App/static/js/runtime-main.8fa9ff71.js",
-    "runtime-main.js.map": "/jjjjhjjjj.github.io/Todo-App/static/js/runtime-main.8fa9ff71.js.map",
-    "static/js/2.49aa4735.chunk.js": "/jjjjhjjjj.github.io/Todo-App/static/js/2.49aa4735.chunk.js",
-    "static/js/2.49aa4735.chunk.js.map": "/jjjjhjjjj.github.io/Todo-App/static/js/2.49aa4735.chunk.js.map",
-    "index.html": "/jjjjhjjjj.github.io/Todo-App/index.html",
-    "precache-manifest.bbd7e902e997dbd2ea1874b39ab422a5.js": "/jjjjhjjjj.github.io/Todo-App/precache-manifest.bbd7e902e997dbd2ea1874b39ab422a5.js",
-    "service-worker.js": "/jjjjhjjjj.github.io/Todo-App/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/jjjjhjjjj.github.io/Todo-App/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.49aa4735.chunk.js.LICENSE.txt": "/jjjjhjjjj.github.io/Todo-App/static/js/2.49aa4735.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/jjjjhjjjj.github.io/Todo-App/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.05ff67ff.chunk.css",
+    "main.js": "/static/js/main.fd900c8e.chunk.js",
+    "main.js.map": "/static/js/main.fd900c8e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f7fbb3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f7fbb3e.js.map",
+    "static/js/2.7b92fc06.chunk.js": "/static/js/2.7b92fc06.chunk.js",
+    "static/js/2.7b92fc06.chunk.js.map": "/static/js/2.7b92fc06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.da45083aea116b00dbb2d76934503c56.js": "/precache-manifest.da45083aea116b00dbb2d76934503c56.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.05ff67ff.chunk.css.map": "/static/css/main.05ff67ff.chunk.css.map",
+    "static/js/2.7b92fc06.chunk.js.LICENSE.txt": "/static/js/2.7b92fc06.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fa9ff71.js",
-    "static/js/2.49aa4735.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.28ab287e.chunk.js"
+    "static/js/runtime-main.9f7fbb3e.js",
+    "static/js/2.7b92fc06.chunk.js",
+    "static/css/main.05ff67ff.chunk.css",
+    "static/js/main.fd900c8e.chunk.js"
   ]
 }
