@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Todo-App/static/css/main.b5119dfe.chunk.css",
-    "main.js": "/Todo-App/static/js/main.bc689a28.chunk.js",
-    "main.js.map": "/Todo-App/static/js/main.bc689a28.chunk.js.map",
+    "main.css": "/Todo-App/static/css/main.76fb33a3.chunk.css",
+    "main.js": "/Todo-App/static/js/main.9d6a4e5b.chunk.js",
+    "main.js.map": "/Todo-App/static/js/main.9d6a4e5b.chunk.js.map",
     "runtime-main.js": "/Todo-App/static/js/runtime-main.33efac75.js",
     "runtime-main.js.map": "/Todo-App/static/js/runtime-main.33efac75.js.map",
-    "static/js/2.7b92fc06.chunk.js": "/Todo-App/static/js/2.7b92fc06.chunk.js",
-    "static/js/2.7b92fc06.chunk.js.map": "/Todo-App/static/js/2.7b92fc06.chunk.js.map",
+    "static/js/2.7576de04.chunk.js": "/Todo-App/static/js/2.7576de04.chunk.js",
+    "static/js/2.7576de04.chunk.js.map": "/Todo-App/static/js/2.7576de04.chunk.js.map",
     "index.html": "/Todo-App/index.html",
-    "precache-manifest.9aa3f79b2fd042dd29c390f3203b6fec.js": "/Todo-App/precache-manifest.9aa3f79b2fd042dd29c390f3203b6fec.js",
+    "precache-manifest.99e11b064de4c20faf0750cd1354bc86.js": "/Todo-App/precache-manifest.99e11b064de4c20faf0750cd1354bc86.js",
     "service-worker.js": "/Todo-App/service-worker.js",
-    "static/css/main.b5119dfe.chunk.css.map": "/Todo-App/static/css/main.b5119dfe.chunk.css.map",
-    "static/js/2.7b92fc06.chunk.js.LICENSE.txt": "/Todo-App/static/js/2.7b92fc06.chunk.js.LICENSE.txt",
+    "static/css/main.76fb33a3.chunk.css.map": "/Todo-App/static/css/main.76fb33a3.chunk.css.map",
+    "static/js/2.7576de04.chunk.js.LICENSE.txt": "/Todo-App/static/js/2.7576de04.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Todo-App/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33efac75.js",
-    "static/js/2.7b92fc06.chunk.js",
-    "static/css/main.b5119dfe.chunk.css",
-    "static/js/main.bc689a28.chunk.js"
+    "static/js/2.7576de04.chunk.js",
+    "static/css/main.76fb33a3.chunk.css",
+    "static/js/main.9d6a4e5b.chunk.js"
   ]
 }
