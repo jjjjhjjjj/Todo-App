@@ -8,10 +8,9 @@
 
 #### 기능
 
-    - 할 일 추가 (기본값 Doing)
-    - 리스트 할 일 상태 카운트
+    - 추가, 삭제, 상태 변환 기능 구현
+    - 리스트 할 일 카운트
     - 상태별로 리스트 구분
-    - 상태 변환, 삭제 기능 구현
     - useReducer, ContextAPI를 이용한 상태 관리
 
 #### [DEMO LINK](https://michelle-todo.herokuapp.com/)
