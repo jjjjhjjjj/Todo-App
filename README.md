@@ -15,5 +15,6 @@
     - 상태별로 리스트 구분
     - useReducer, ContextAPI를 이용한 상태 관리
 
+### 리덕스 기능 추가 : [Redux Todo](https://github.com/jjjjhjjjj/Todo-App-Redux)
 
 #### [DEMO LINK](https://michelle-todo.herokuapp.com/)
