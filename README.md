@@ -1,5 +1,5 @@
 # Todo APP  
-리액트를 이용한 할 일 웹 어플리케이션입니다.<br><br>
+리액트를 이용한 할 일 웹 어플리케이션<br><br>
 
 - 사이트 링크: [TODO APP](https://jjjjhjjjj.github.io/Todo-App/)<br><br>
 
